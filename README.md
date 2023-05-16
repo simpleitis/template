@@ -1,8 +1,8 @@
 
 
-Version:
-License:
-Issues:
+Version: 0.1.0
+License: MIT
+Issues: 0
 
 ## Introduction
 
